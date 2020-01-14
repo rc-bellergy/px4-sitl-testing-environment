@@ -11,5 +11,3 @@
 
 ## Start Mavlink Router
     mavlink-routerd 127.0.0.1:14550 -e 192.168.192.103:14550
-
-
