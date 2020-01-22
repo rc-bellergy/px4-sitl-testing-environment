@@ -6,7 +6,7 @@
 
 ---
 ## Start SITL
-    cd ~/px4-firmware
+    cd ~/Firmware
     HEADLESS=1 make px4_sitl jmavsim
 
 ## Start Mavlink Router
